@@ -13,7 +13,7 @@ It allows the Restaurant Owners to place special qr codes on tables thruogh whic
 - Easy management for the changes in the menu and tracking orders 
 - Booking a table (Upcoming Feature)
 - Eat now pay later (Upcoming Feature)
-- Use ML models to better understand and tranck your restaurant.
+- Use ML models to better understand and track your restaurant. (Upcoming Feature)
 
 
 
