@@ -1,6 +1,6 @@
 
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, re_path
 from django.conf.urls import include
 
 from core import views
@@ -25,4 +25,6 @@ urlpatterns = [
 
     path('api/orders/', views.OrderList.as_view()),
     path('api/orders/<pk>', views.OrderDetail.as_view()),
+    re_path('', views.home),
+
 ]
