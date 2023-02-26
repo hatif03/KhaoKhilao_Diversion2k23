@@ -11,8 +11,10 @@ It allows the Restaurant Owners to place special qr codes on tables thruogh whic
 - Better Customer Experience 
 - Customers gets to know the exact price of the whole order including GST (Just in case your'e short on money)
 - Easy management for the changes in the menu and tracking orders 
-- Booking a table
+- Booking a table (Upcoming Feature)
 - Eat now pay later (Upcoming Feature)
+- Use ML models to better understand and tranck your restaurant.
+
 
 
 
