@@ -39,3 +39,9 @@ Voilà you are ready to go!
 - GoDaddy
 - GitHub
 - Replit
+
+Team:-
+1.Hatif Osmani
+2.Azim Ahmed Warsi
+3.Obay Khurshid
+4.Farhan Ali Mirza
